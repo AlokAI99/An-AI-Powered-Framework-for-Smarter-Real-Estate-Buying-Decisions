@@ -8,7 +8,7 @@ A structured, research-driven framework that combines prompt engineering, multi-
 
 > **Core question:** Should I buy a home, continue renting, or rent while investing the difference? If buying makes sense, what budget can I sustainably afford, and which properties deserve further investigation?
 
----
+
 
 ## Table of Contents
 
